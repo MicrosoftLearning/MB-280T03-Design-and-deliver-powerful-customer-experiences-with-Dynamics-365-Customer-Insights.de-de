@@ -100,10 +100,10 @@ In dieser Aufgabe werden wir Online-Kaufdaten erfassen, die Käufe über die Con
 2. Wählen Sie **+ Datenquelle hinzufügen**, wählen Sie **Microsoft Power Query** und benennen Sie die Quelle *PoS*, dann wählen Sie anschließend **Weiter**.
 3. Wählen Sie den **Text/CSV**-Konnektor aus.
 4. Geben Sie https://aka.ms/CI-ILT/POSPurchases für Dateipfad oder URL ein. Wählen Sie **Weiter** und dann **Daten transformieren**.
-5. Wie zuvor wählen Sie **Transformieren**, dann **Erste Zeile als Überschrift verwenden**.
+5. Wählen Sie wie zuvor **Transformieren,** dann **Die erste Zeile als Überschrift verwenden**.
 6. Aktualisieren Sie den Datentyp für die folgenden Spalten:
    - **PurchasedOn**: Datum
-   - **GesamtPreis**: Währung
+   - **TotalPrice**: Währung
    - **RewardsPointsAdded:** Ganze Zahl
 7. Benennen Sie die Abfrage im Feld **Name** im Bereich „Abfrageeinstellungen“ in *Einkäufe* um. Wählen Sie **Weiter** aus.
 8. Wählen Sie auf dem Bildschirm zur Datenaktualisierung **Speichern**.
