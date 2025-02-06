@@ -95,12 +95,12 @@ In dieser Übung richten wir Such- und Filterkriterien ein, damit Customer Insig
 1. In Customer Insights wählen Sie **Kunden** aus dem linken Navigationsmenü.
 2. Wählen Sie **Such- und Filterindex** aus.
 3. Einige für die Kundensuche spezifische Felder sind bereits standardmäßig hinzugefügt und Sie können weitere hinzufügen, indem Sie **+ Hinzufügen** in der Symbolleiste wählen.
-4. Stellen Sie sicher, dass **CustomerId, FirstName, LastName, FullName, DateOfBirth, EMail, PostCode, Headshot, ContactId (eCommerce_Contacts),** und **LoyaltyId** ausgewählt sind. Deaktivieren Sie alle anderen aktivierten Felder. Wählen Sie **Übernehmen**.
+4. Stellen Sie sicher, dass **CustomerId, FirstName, LastName, FullName, DateOfBirth, EMail, PostCode, ContactId (eCommerce_Contacts)** und **LoyaltyId** ausgewählt sind. Deaktivieren Sie alle anderen aktivierten Felder. Wählen Sie **Übernehmen**.
 5. Wählen Sie **Speichern**.
 
 ### Aufgabe 2: Suchen nach einem Kundendatensatz
 1. In Customer Insights wählen Sie **Kunden** aus dem linken Navigationsmenü. Sie sollten einen Satz von Kundenkarten angezeigt bekommen, die die einheitlichen Profile darstellen. Sie können Karten erweitern, um mehr über die Kundschaft zu erfahren oder die Karten nach verschiedenen Feldern zu sortieren. Versuchen Sie dies, indem Sie **Karten erweitern** und **Sortieren nach** in der Symbolleiste wählen.
-2. Sie können „Kunden suchen“ verwenden, um nach Textattributen zu einheitlichen Kundenprofilen zu suchen. (Beispiele: Die Suche nach „24502“ wird in allen Textattributen durchgeführt und gibt Übereinstimmungen und Teilübereinstimmungen zurück.)
+2. Sie können Kunden suchen verwenden, um nach Textattributen zu einheitlichen Kundenprofilen zu suchen. (Beispiele: Die Suche nach „24502“ wird in allen Textattributen durchgeführt und gibt Übereinstimmungen und Teilübereinstimmungen zurück.)
 
 Verwenden Sie die Suchleiste, um die folgenden Fragen zu beantworten:
 - Wie lautet Brian Gobbles Geburtsdatum? (Suche nach Brian Gobble)
